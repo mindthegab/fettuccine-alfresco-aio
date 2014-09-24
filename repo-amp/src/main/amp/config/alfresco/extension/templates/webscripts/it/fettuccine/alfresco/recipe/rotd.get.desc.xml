@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Recipe of the day Webscript</shortname>
+    <description>Returns the recipe of the day</description>
+    <url>/recipe/rotd</url>
+    <authentication>user</authentication>
+    <format default="json"></format>
+</webscript>

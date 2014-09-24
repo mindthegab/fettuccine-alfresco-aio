@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>Recipe of the day</shortname>
+    <description>Dashlet displaying the recipe of the day</description>
+    <family>user-dashlet</family>
+    <url>/rotd</url>
+</webscript>
