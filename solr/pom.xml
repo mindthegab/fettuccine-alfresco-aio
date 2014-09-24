@@ -9,7 +9,7 @@
     <parent>
         <groupId>it.fettuccine.alfresco</groupId>
         <artifactId>alfresco-aio</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     	<!-- The folder where the solr.home directory will be created. NOTE: this doesn't get cleaned by mvn clean, you need to invoke -Ppurge to clean this folder or remove it manually  -->
