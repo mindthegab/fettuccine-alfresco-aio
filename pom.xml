@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>it.fettuccine.alfresco</groupId>
     <artifactId>alfresco-aio</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>Alfresco Repository and Share Quickstart with database and an embedded runner.</name>
     <description>This All-in-One project allows to manage all the components involved in Alfresco development (Repo, Share, Solr, AMPs) in one project</description>
     <packaging>pom</packaging>    
@@ -104,7 +104,7 @@
 		<connection>scm:git:${scm.url.base}.git</connection>
 		<developerConnection>scm:git:${scm.url.base}</developerConnection>
 		<url>${scm.url.base}</url>
-		<tag>alfresco-aio-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 	<build>
